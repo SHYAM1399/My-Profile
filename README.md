@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my graduate studies at University of Houston**
 
-- 🌱 I’m currently learning **Tensor Flow**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Data Science and Machine learning projects/research**
 
