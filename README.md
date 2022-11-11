@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **building automated ML models**
 
-- 📝 I regularly write articles on Machine Learning
+- 📝 I regularly write articles on **Machine Learning**
 
 - 💬 Ask me about **anything in Machine Learning and Data Analysis**
 
