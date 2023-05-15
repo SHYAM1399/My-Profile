@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam1399&label=Profile%20views&color=0e75b6&style=flat" alt="shyam1399" /> </p>
 
-- 🔭 I’m currently working on **Data Scientist & Data Sciene Graduate from University of Houston**
+- 🔭 A **Data Scientist & Data Sciene Graduate from University of Houston**
 
 - 🌱 I’m currently learning **Passionate about working inDeep Learning**
 
