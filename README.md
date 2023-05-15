@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam1399&label=Profile%20views&color=0e75b6&style=flat" alt="shyam1399" /> </p>
 
-- 🔭 I’m currently working on **my graduate studies at University of Houston**
+- 🔭 I’m currently working on **Data Scientist & Data Sciene Graduate from University of Houston*
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Passionate about working inDeep Learning**
 
-- 👯 I’m looking to collaborate on **Data Science and Machine learning projects/research**
+- 👯 I’m looking to collaborate on **Data Science and Machine learning open source*
 
 - 🤝 I’m looking for help with **building automated ML models**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **anything in Machine Learning and Data Analysis**
 
-- 📫 How to reach me **shyamreddy.ks89@gmail.com**
+- 📫 How to reach me **skotha40@gmail.com**
 
 - 📄 Know about my experiences [[RESUME_KOTHA.pdf](https://github.com/SHYAM1399/SHYAM1399/files/9942677/RESUME_KOTHA.pdf)]([RESUME_KOTHA.pdf](https://github.com/SHYAM1399/SHYAM1399/files/9942677/RESUME_KOTHA.pdf))
 
